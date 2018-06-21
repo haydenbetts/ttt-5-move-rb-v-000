@@ -8,4 +8,8 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(input)
+  # subtract one from input
+end
+
+def move
 end
