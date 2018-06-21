@@ -14,4 +14,5 @@ end
 def move(array, index, value = "X")
   # update the TTT board with the player's token
   # return the modified array
+  array[index] = value
 end
