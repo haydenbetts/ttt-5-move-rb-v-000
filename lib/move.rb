@@ -11,6 +11,6 @@ def input_to_index(input)
   input.to_i - 1
 end
 
-def move(board_array, index, player_token = "X")
+def move(board_array, index, value = "X")
   # update the TTT board with the player's token
 end
